@@ -1,0 +1,23 @@
+{
+  "name": "win-chances",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DvDty/win-chances.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DvDty/win-chances/issues"
+  },
+  "homepage": "https://github.com/DvDty/win-chances#readme",
+  "dependencies": {
+    "brain.js": "^1.6.1"
+  }
+}
